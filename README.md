@@ -37,9 +37,3 @@ This project analyzes historical stock price data to evaluate long-term performa
 - `python/`: Python scripts for data collection
 - `sql/`: SQL scripts for table creation and analysis
 - `powerbi/`: Dashboard screenshots
-- `data/`: Sample dataset (if applicable)
-
-## Future Improvements
-- Add automated data refresh
-- Expand analysis to include volatility and risk metrics
-- Deploy Power BI dashboard to Power BI Service
