@@ -1,0 +1,11 @@
+CREATE TABLE performance (
+    symbol VARCHAR(10) NOT NULL PRIMARY KEY,
+    1m DECIMAL(20,10),
+    3m DECIMAL(20,10),
+    6m DECIMAL(20,10),
+    1y DECIMAL(20,10),
+    3y DECIMAL(20,10),
+    5y DECIMAL(20,10),
+    10y DECIMAL(20,10),
+    lifetime DECIMAL(20,10)
+);
